@@ -3,7 +3,7 @@ var ctx = canvas.getContext("2d");
 let a = 0
 
 function updateCanvas() {
-  let b = (Math.sin(a/30)+1)*230
+  let b = (Math.sin(a/15)+1)*115
   a += game.guessers.amount
   ctx.fillStyle = "#FFFFFF"
   ctx.fillRect(0,0,400,100)
