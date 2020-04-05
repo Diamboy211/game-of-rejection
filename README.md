@@ -1,2 +1,2 @@
-# no-u-simulator
-lol no u. https://diamboy211.github.io/no-u-simulator
+#game-of-rejection
+yea the source code's here
