@@ -3,3 +3,9 @@ button#submitPassword {
     left: 185px;
     top: 42px;
 }
+
+canvas#canvas {
+    position: absolute;
+    left: 155px;
+    top: 0px;
+}
