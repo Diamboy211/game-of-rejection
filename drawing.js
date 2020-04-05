@@ -4,7 +4,7 @@ let a = 0
 
 function updateCanvas() {
   let b = (Math.sin(a/30)+1)*230
-  a += game.guesser.amount
+  a += game.guessers.amount
   ctx.fillStyle = "#FFFFFF"
   ctx.fillRect(0,0,400,100)
   ctx.fillStyle = "#DDDDFF"
