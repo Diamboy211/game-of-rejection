@@ -3,6 +3,11 @@ var game = {
   guessers: {
     amount: 0,
     overclockRatio: 0,
+    cost: 15,
+  },
+  unlocked: {
+    guessers: false,
+    rejected: false,
   },
 }
 
