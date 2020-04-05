@@ -1,1 +1,5 @@
-
+button#submitPassword {
+    position: absolute;
+    left: 185px;
+    top: 42px;
+}
