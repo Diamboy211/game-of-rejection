@@ -1,11 +1,11 @@
 button#submitPassword {
     position: absolute;
     left: 185px;
-    top: 42px;
+    top: 76px;
 }
 
 canvas#canvas {
     position: absolute;
     left: 243px;
-    top: 0px;
+    top: 34px;
 }
